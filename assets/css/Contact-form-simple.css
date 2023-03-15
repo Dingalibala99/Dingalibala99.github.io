@@ -12,6 +12,6 @@
 }
 
 .skills-div-p i{
-   margin-right: 1em;
+   margin-right: 1em !important;
    font-weight: bold;
 }
